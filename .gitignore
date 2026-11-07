@@ -1,0 +1,6 @@
+/products.json
+/demo.json
+__pycache__/
+*.py[cod]
+.inventory-*.tmp
+.DS_Store
